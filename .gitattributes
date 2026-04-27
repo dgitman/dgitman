@@ -1,0 +1,3 @@
+# Exclude HTML assignment pages from GitHub language statistics so the
+# repository is classified by its PyScript Python source file.
+cti-110/*.html linguist-vendored
