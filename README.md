@@ -33,7 +33,7 @@ AI, cloud, eCommerce and automation engineer with a systems administration, netw
 - CompTIA SecAI+
 - CompTIA Security+
 - [AWS Certified Solutions Architect, Associate](https://www.credly.com/badges/56be5268-88ad-498b-8dfd-1feecff6835a)
-- [Magento Certified Solution Specialist](https://u.magento.com/certification/directory/dev/141618/) (Adobe Commerce)
+- [Magento Certified Solution Specialist (MCSS)](https://u.magento.com/certification/directory/dev/141618/) (Adobe Commerce)
 - [Cisco Certified Support Technician, Cybersecurity (CCST)](https://www.credly.com/badges/4eb73999-76f1-448f-9946-a837a6e63fa0) (Dec 2025)
 - [Cisco Certified Support Technician, Networking (CCST)](https://www.credly.com/badges/305c5256-4d8b-4a50-a28f-aef1dddcd799) (Jan 2026)
 - [Cisco Certified Support Technician, IT Support (CCST)](https://www.credly.com/badges/bcb0c580-1846-4269-8200-9f6bb11ee014) (Feb 2026)
