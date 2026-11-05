@@ -41,7 +41,3 @@ AI, cloud, eCommerce and automation engineer with a systems administration, netw
 - [ISC2 Candidate](https://www.credly.com/badges/cd7ea5b0-f8a9-40b0-ad74-2956a7b79343) (Feb 2026)
 - [Make Intermediate Certificate](https://www.credly.com/badges/dfc4a1ef-2161-4d47-b434-69d7915558eb) (Apr 2024)
 - [Explore Emerging Tech](https://www.credly.com/badges/6d4cdb8a-83db-4fec-8901-8f31da180772) (IBM SkillsBuild, Nov 2025)
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/dgitman/)
