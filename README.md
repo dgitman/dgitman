@@ -29,7 +29,7 @@ AI, cloud, eCommerce and automation engineer with a systems administration, netw
 ## Certifications
 
 - Claude Certified Architect, Foundations (CCAR-F)
-- Google Cloud Generative AI Leader
+- Google Cloud Generative AI Leader (GAIL)
 - CompTIA SecAI+
 - CompTIA Security+
 - [AWS Certified Solutions Architect, Associate](https://www.credly.com/badges/56be5268-88ad-498b-8dfd-1feecff6835a)
