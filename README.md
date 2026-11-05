@@ -1,6 +1,6 @@
 # David Gitman
 
-Cloud, eCommerce and automation engineer with a systems administration background. In 2026 I build mostly with AI coding assistants, including Claude, and publish the tools that turn out useful. I design, review and ship the work. Commit history shows where an assistant co-authored.
+AI, Cloud, eCommerce, and automation engineer with a background in systems administration, network engineering, and security. In 2026, I build mostly with AI coding assistants, including Claude, and publish useful tools. I design, review, and ship the work. Commit history shows where an assistant co-authored.
 
 ## Projects
 
@@ -23,7 +23,7 @@ Cloud, eCommerce and automation engineer with a systems administration backgroun
 ## Background
 
 - Systems administration for most of my career. My [dotfiles](https://github.com/dgitman/dotfiles) are the working record.
-- eCommerce platform engineering: Shopify Plus, Magento, React and Next.js.
+- eCommerce platform engineering: Shopify Plus, Magento, React, and Next.js.
 - Cloud infrastructure on AWS and GCP.
 - Certifications: AWS Certified Solutions Architect, Magento Certified Solution Specialist.
 
