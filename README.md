@@ -26,3 +26,7 @@ Cloud, eCommerce and automation engineer with a systems administration backgroun
 - eCommerce platform engineering: Shopify Plus, Magento, React and Next.js.
 - Cloud infrastructure on AWS and GCP.
 - Certifications: AWS Certified Solutions Architect, Magento Certified Solution Specialist.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/dgitman/)
