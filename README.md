@@ -1,6 +1,6 @@
 # David Gitman
 
-AI, cloud, eCommerce and automation engineer with a systems administration, network engineer, security background. Today I build mostly with AI coding assistants, and publish the tools that might be useful for you. I design, review, and ship the work. Commit history shows where an assistant co-authored.
+AI, cloud, eCommerce and automation engineer with a systems administration, network engineering, security background. Today I build mostly with AI coding assistants, and publish the tools that might be useful for you. I design, review, and ship the work. Commit history shows where an assistant co-authored.
 
 ## Projects
 
