@@ -34,9 +34,9 @@ AI, cloud, eCommerce and automation engineer with a systems administration, netw
 - CompTIA Security+
 - [AWS Certified Solutions Architect, Associate](https://www.credly.com/badges/56be5268-88ad-498b-8dfd-1feecff6835a)
 - [Magento Certified Solution Specialist](https://u.magento.com/certification/directory/dev/141618/) (Adobe Commerce)
-- [Cisco Certified Support Technician, Cybersecurity](https://www.credly.com/badges/4eb73999-76f1-448f-9946-a837a6e63fa0) (Dec 2025)
-- [Cisco Certified Support Technician, Networking](https://www.credly.com/badges/305c5256-4d8b-4a50-a28f-aef1dddcd799) (Jan 2026)
-- [Cisco Certified Support Technician, IT Support](https://www.credly.com/badges/bcb0c580-1846-4269-8200-9f6bb11ee014) (Feb 2026)
+- [Cisco Certified Support Technician, Cybersecurity (CCST)](https://www.credly.com/badges/4eb73999-76f1-448f-9946-a837a6e63fa0) (Dec 2025)
+- [Cisco Certified Support Technician, Networking (CCST)](https://www.credly.com/badges/305c5256-4d8b-4a50-a28f-aef1dddcd799) (Jan 2026)
+- [Cisco Certified Support Technician, IT Support (CCST)](https://www.credly.com/badges/bcb0c580-1846-4269-8200-9f6bb11ee014) (Feb 2026)
 - [Certified Wireless IoT Solutions Administrator](https://www.cwnp.com/cwnpVerification.php?Submit=Verify&cwnp_id=738474) (CWNP, Mar 2026)
 - [ISC2 Candidate](https://www.credly.com/badges/cd7ea5b0-f8a9-40b0-ad74-2956a7b79343) (Feb 2026)
 - [Make Intermediate Certificate](https://www.credly.com/badges/dfc4a1ef-2161-4d47-b434-69d7915558eb) (Apr 2024)
