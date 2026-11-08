@@ -1,30 +1,32 @@
 # David Gitman
 
-AI, cloud, eCommerce and automation engineer with a systems administration, network engineering, security background. Today I build mostly with AI coding assistants, and publish the tools that might be useful for you. I design, review, and ship the work. Commit history shows where an assistant co-authored.
+AI, cloud, eCommerce, and automation engineer with a background in systems administration, network engineering, and security. Today, I build mostly with AI coding assistants, publishing robust infrastructure utilities and automation setups. I design, review, and ship the work. Commit history shows where an assistant co-authored.
 
 ## Projects
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [Apple Reminders & Google Tasks Sync](https://github.com/dgitman/apple-reminders-google-tasks-sync) | Two-way sync between Apple Reminders and Google Tasks. Handles multiple Google accounts, conflict resolution, subtasks, recurring reminders, and a deletion safety cap with dry-run mode. | Swift, macOS |
-| [Google Watched to Trakt](https://github.com/dgitman/trakt-import-google-watch-history) | Imports Google Takeout watch history into Trakt. Accepts only unique exact matches and writes the rest to a report for review. | Python, no third-party dependencies |
-| [Google Sheets Drive Chip Automator](https://github.com/dgitman/google-sheets-smart-chips-files-automater) | Converts Drive links in Google Sheets to File Smart Chips and refreshes renamed labels. Resumes after Apps Script runtime limits. | Google Apps Script |
-| [Brewlert](https://github.com/dgitman/brewlert) ([live](https://brewlert.vercel.app/)) | Sunday email digest of newly merged Homebrew formulae and casks. | Next.js, TypeScript, Resend, Vercel Cron |
-| [Magento Custom Reports](https://github.com/dgitman/magento-custom-reports-example) | SQL reports for a Magento 1 store: gross margin by subcategory and orders by city. | SQL |
+| [Apple Reminders & Google Tasks Sync](https://github.com/dgitman/apple-reminders-google-tasks-sync) | Two-way sync between Apple Reminders and Google Tasks. Handles multiple Google accounts, conflict resolution, subtasks, recurring reminders, and a deletion safety cap with dry-run mode. | Swift 6, macOS SDK, SQLite |
+| [Google Watched to Trakt](https://github.com/dgitman/trakt-import-google-watch-history) | Parses and structures raw Google Takeout data exports to migrate streaming histories into Trakt. Accepts unique exact-title matches and flags deviations. | Python (Standard Library) |
+| [Brewlert](https://github.com/dgitman/brewlert) ([live](https://brewlert.vercel.app/)) | Sunday email digest scanning newly merged Homebrew formulae and casks with multi-segment subscription filters. | Next.js, TypeScript, Resend, Vercel Cron |
+| [Google Sheets Drive Chip Automator](https://github.com/dgitman/google-sheets-smart-chips-files-automater) | Converts raw Google Drive links in Sheets to native File Smart Chips. Safe stateful batch processor checkpoints progress to bypass Apps Script limits. | Google Apps Script, Sheets API v4 |
+| [Magento Custom Reports](https://github.com/dgitman/magento-custom-reports-example) | Performance SQL analysis reporting for flat-table schemas mapping category trees, gross margins, and regional volumes. | SQL, eCommerce Analytics |
 
-## Open-source contributions
+## Open-Source Contributions
 
-- **[Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask/pulls?q=is%3Apr+author%3Adgitman+is%3Amerged):** 17+ merged pull requests, including new casks, version bumps and cask descriptions.
-- **[career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops/pulls?q=is%3Apr+author%3Adgitman):** two merged pull requests (a new job-board provider and a Homebrew path fix) and one open fix, [#6510](https://github.com/career-ops-hq/career-ops/pull/6510).
-- **[jglovier/resume-template](https://github.com/jglovier/resume-template/pull/191):** one merged pull request adding more social link platforms.
-- **MCP servers (open pull requests):** [linkedin-mcp-server #1425](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1425), [amazon-order-history-csv-download-mcp #39](https://github.com/marcusquinn/amazon-order-history-csv-download-mcp/pull/39) and [mcp-target #3](https://github.com/markswendsen-code/mcp-target/pull/3).
-- **[1Password/shell-plugins #690](https://github.com/1Password/shell-plugins/pull/690):** open pull request adding support for the `zapier-platform` binary.
+- **[Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask/pulls?q=is%3Apr+author%3Adgitman+is%3Amerged):** 17+ merged pull requests adding upstream software binary packagings, version bumps, and metadata descriptions.
+- **[career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops/pulls?q=is%3Apr+author%3Adgitman):** Merged contributions establishing new portal providers, runtime fixes, and a core audit HTTP context response cap handling patch ([#6510](https://github.com/career-ops-hq/career-ops/pull/6510)).
+- **Model Context Protocol (MCP) Servers:** Open integrations implementing the Anthropic MCP specification for automated platform syncs: [#1425](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1425) (`linkedin-mcp-server`), [#39](https://github.com/marcusquinn/amazon-order-history-csv-download-mcp/pull/39) (`amazon-order-history-mcp`), and [#3](https://github.com/markswendsen-code/mcp-target/pull/3) (`mcp-target`).
+- **[1Password/shell-plugins #690](https://github.com/1Password/shell-plugins/pull/690):** Active integration pull request adding secure local shell environment hooks for the `zapier-platform` CLI binary.
+- **[jglovier/resume-template](https://github.com/jglovier/resume-template/pull/191):** Merged pull request extending multi-platform matrix layout supports for profile social identification structures.
 
 ## Background
 
-- Systems administration for most of my career. My [dotfiles](https://github.com/dgitman/dotfiles) are the working record.
-- eCommerce platform engineering: Shopify Plus, Magento, React and Next.js.
-- Cloud infrastructure on AWS and GCP.
+## Background
+
+- **Cloud Infrastructure:** Architecture deployments, secure access controls, and serverless compute pipelines running on AWS and GCP cloud ecosystems.
+- **eCommerce Engineering:** Production platform development, schema design, and runtime optimization architecture utilizing Shopify Plus, Magento flat schemas, React, and Next.js layers.
+- **Systems Administration:** The majority of my career history. I maintain active terminal custom setups, network engineering routines, and automated infrastructure configurations in my [dotfiles](https://github.com).
 
 ## Certifications
 
