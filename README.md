@@ -28,10 +28,10 @@ AI, cloud, eCommerce, and automation engineer with a background in systems admin
 
 ## Certifications
 
-- Claude Certified Architect, Foundations (CCAR-F)
-- Google Cloud Generative AI Leader (GAIL)
-- CompTIA SecAI+
-- CompTIA Security+
+- Claude Certified Architect, Foundations (CCAR-F) (Exam in March 2027)
+- Google Cloud Generative AI Leader (GAIL) (Exam in January 2027)
+- CompTIA SecAI+ (Exam in May 2027)
+- CompTIA Security+ (Exam in November 2026)
 - [AWS Certified Solutions Architect, Associate (SAA)](https://www.credly.com/badges/56be5268-88ad-498b-8dfd-1feecff6835a)
 - [Magento Certified Solution Specialist (MCSS)](https://u.magento.com/certification/directory/dev/141618/) (Adobe Commerce)
 - [Cisco Certified Support Technician, Cybersecurity (CCST)](https://www.credly.com/badges/4eb73999-76f1-448f-9946-a837a6e63fa0) (Dec 2025)
