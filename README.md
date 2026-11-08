@@ -22,8 +22,6 @@ AI, cloud, eCommerce, and automation engineer with a background in systems admin
 
 ## Background
 
-## Background
-
 - **Cloud Infrastructure:** Architecture deployments, secure access controls, and serverless compute pipelines running on AWS and GCP cloud ecosystems.
 - **eCommerce Engineering:** Production platform development, schema design, and runtime optimization architecture utilizing Shopify Plus, Magento flat schemas, React, and Next.js layers.
 - **Systems Administration:** The majority of my career history. I maintain active terminal custom setups, network engineering routines, and automated infrastructure configurations in my [dotfiles](https://github.com).
