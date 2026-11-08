@@ -8,8 +8,7 @@ AI, cloud, eCommerce and automation engineer with a systems administration, netw
 | --- | --- | --- |
 | [Apple Reminders & Google Tasks Sync](https://github.com/dgitman/apple-reminders-google-tasks-sync) | Two-way sync between Apple Reminders and Google Tasks. Handles multiple Google accounts, conflict resolution, subtasks, recurring reminders, and a deletion safety cap with dry-run mode. | Swift, macOS |
 | [Google Watched to Trakt](https://github.com/dgitman/trakt-import-google-watch-history) | Imports Google Takeout watch history into Trakt. Accepts only unique exact matches and writes the rest to a report for review. | Python, no third-party dependencies |
-| [Google Sheets Drive Chip Automator
-](https://github.com/dgitman/google-sheets-smart-chips-files-automater) | Converts Drive links in Google Sheets to File Smart Chips and refreshes renamed labels. Resumes after Apps Script runtime limits. | Google Apps Script |
+| [Google Sheets Drive Chip Automator](https://github.com/dgitman/google-sheets-smart-chips-files-automater) | Converts Drive links in Google Sheets to File Smart Chips and refreshes renamed labels. Resumes after Apps Script runtime limits. | Google Apps Script |
 | [Brewlert](https://github.com/dgitman/brewlert) ([live](https://brewlert.vercel.app/)) | Sunday email digest of newly merged Homebrew formulae and casks. | Next.js, TypeScript, Resend, Vercel Cron |
 | [Magento Custom Reports](https://github.com/dgitman/magento-custom-reports-example) | SQL reports for a Magento 1 store: gross margin by subcategory and orders by city. | SQL |
 
