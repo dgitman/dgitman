@@ -14,9 +14,9 @@ AI, cloud, eCommerce, and automation engineer with a background in systems admin
 
 ## Open-Source Contributions
 
+- **Model Context Protocol (MCP) Servers:** Open integrations implementing the Anthropic MCP specification for automated platform syncs: [#1425](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1425) (`linkedin-mcp-server`), [#39](https://github.com/marcusquinn/amazon-order-history-csv-download-mcp/pull/39) (`amazon-order-history-mcp`), and [#3](https://github.com/markswendsen-code/mcp-target/pull/3) (`mcp-target`).
 - **[Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask/pulls?q=is%3Apr+author%3Adgitman+is%3Amerged):** 17+ merged pull requests adding upstream software binary packagings, version bumps, and metadata descriptions.
 - **[career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops/pulls?q=is%3Apr+author%3Adgitman):** Merged contributions establishing new portal providers, runtime fixes, and a core audit HTTP context response cap handling patch ([#6510](https://github.com/career-ops-hq/career-ops/pull/6510)).
-- **Model Context Protocol (MCP) Servers:** Open integrations implementing the Anthropic MCP specification for automated platform syncs: [#1425](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1425) (`linkedin-mcp-server`), [#39](https://github.com/marcusquinn/amazon-order-history-csv-download-mcp/pull/39) (`amazon-order-history-mcp`), and [#3](https://github.com/markswendsen-code/mcp-target/pull/3) (`mcp-target`).
 - **[1Password/shell-plugins #690](https://github.com/1Password/shell-plugins/pull/690):** Active integration pull request adding secure local shell environment hooks for the `zapier-platform` CLI binary.
 - **[jglovier/resume-template](https://github.com/jglovier/resume-template/pull/191):** Merged pull request extending multi-platform matrix layout supports for profile social identification structures.
 
